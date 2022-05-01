@@ -1,0 +1,30 @@
+#search_bar{
+    width:80%;
+    margin:10px auto
+}
+#query{
+    width:100%;
+    height:35px;
+    border:1px solid green;
+    border-radius: 10px;
+    padding: 5px;
+    font-size:medium
+}
+#categories{
+    display:flex;
+    width:80%;
+    margin:auto;
+    justify-content: space-between;
+}
+#categories h3{
+    border:1px solid grey;
+    padding:10px;
+    border-radius: 10px;
+    cursor:pointer
+}
+
+/* qK4Pco6EZ-5QUGgAx_3ohAEmqGg1fF41tFf26mUddNQ */ 
+/* access key */
+
+/* vGUHSOssxSmrw82yGwuutBE6KnnRFKmJJMTSOWG73-k */
+/* secret */
